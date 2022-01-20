@@ -1,0 +1,14 @@
+#header {
+  font-size: xx-large;
+  font-weight: 100;
+  text-align: center;
+  text-decoration: underline;
+}
+#btn1 {
+  border-color: darkblue;
+  border-style: dotted;
+  font-size: 25px;
+}
+h2 {
+  text-align: center;
+}
